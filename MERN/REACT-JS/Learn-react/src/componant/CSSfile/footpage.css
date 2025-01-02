@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footpage{
+   width: 100vw;
+   height: 60px;
+   background-color: gray;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
